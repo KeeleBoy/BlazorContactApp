@@ -9,3 +9,6 @@ public class ContactObj
     public DateTime BirthDate { get; set; }
 
 }
+
+//var ContactList = new List<ContactObj> {};
+// attempted to make list of contact object here and failed

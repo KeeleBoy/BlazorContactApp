@@ -1,4 +1,6 @@
-﻿<h3>Contact</h3>
+﻿@page "/Contact"
+
+<h3>Contact</h3>
 
 @*<ul>
     @foreach (var ContactObj in Contact)
@@ -16,6 +18,7 @@
 @code {
 
 
+@*Attempted to fix the list creation below and failed, I believe issues are here*@
 private IList<Contact> contacts = new List<Contact>();
 
 }
