@@ -2,13 +2,12 @@ using System;
 
 public class contactObj
 {
-    public Guid id { get; set; }
-    public string lastName { get; set; }
-    public string firstName { get; set; }
-    public string phoneNumber { get; set; }
-    public DateTime birthDate { get; set; }
-
+    public Guid Id { get; set; }
+    public DateTime BirthDate { get; set; }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string PhoneNumber { get; set; }
 }
 
-//var contactList = new List<contactObj> {};
+//var ContactList = new List<ContactObj> {};
 // attempted to make list of contact object here and failed
