@@ -1,5 +1,9 @@
 using System;
 
+// Here was the first attempt to make the contact object
+// decided to click project and make new class contactObj.cs
+//leaving this for now in case it's needed to be referenced
+
 public class contactObj
 {
     public Guid Id { get; set; }
@@ -9,5 +13,5 @@ public class contactObj
     public string PhoneNumber { get; set; }
 }
 
-//var ContactList = new List<ContactObj> {};
+// List ContactList = new List<ContactObj> {};
 // attempted to make list of contact object here and failed
