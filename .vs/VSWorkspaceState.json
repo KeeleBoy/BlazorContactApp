@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pages",
-    "\\Shared"
+    "\\Data",
+    "\\Pages"
   ],
-  "SelectedNode": "\\Shared\\NavMenu.razor",
+  "SelectedNode": "\\Pages\\Contact.razor",
   "PreviewInSolutionExplorer": false
 }
