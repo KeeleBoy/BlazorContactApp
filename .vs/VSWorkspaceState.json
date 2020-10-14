@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Data",
-    "\\Pages"
+    "\\Pages",
+    "\\Shared"
   ],
-  "SelectedNode": "\\Pages\\Contact.razor",
+  "SelectedNode": "\\contactObj.cs",
   "PreviewInSolutionExplorer": false
 }
