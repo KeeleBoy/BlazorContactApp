@@ -1,0 +1,4 @@
+D:\Projects\BlazorContactApp\obj\Debug\netcoreapp2.0\ContactSystem.csprojAssemblyReference.cache
+D:\Projects\BlazorContactApp\obj\Debug\netcoreapp2.0\ContactSystem.AssemblyInfoInputs.cache
+D:\Projects\BlazorContactApp\obj\Debug\netcoreapp2.0\ContactSystem.AssemblyInfo.cs
+D:\Projects\BlazorContactApp\obj\Debug\netcoreapp2.0\ContactSystem.csproj.CoreCompileInputs.cache

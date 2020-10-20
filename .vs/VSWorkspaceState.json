@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Data",
-    "\\Pages",
-    "\\Shared"
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\Data"
   ],
-  "SelectedNode": "\\contactObj.cs",
+  "SelectedNode": "\\ContactSystem.csproj",
   "PreviewInSolutionExplorer": false
 }
