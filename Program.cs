@@ -18,7 +18,7 @@ namespace ContactSystem
             CreateHostBuilder(args).Build().Run();
 
             // here is an attempt to create a list of the contact object
-            List<contactObj> contacts = new List<contactObj>;
+            List<contactObj> contacts = new List<contactObj>();
 
             // here i'm trying to add a contact so we can see if the list is working properly
             contacts.Add(new contactObj);

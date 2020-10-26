@@ -104,3 +104,4 @@ D:\Projects\BlazorContactApp\obj\Debug\netcoreapp3.1\ContactSystem.genruntimecon
 D:\Projects\BlazorContactApp\obj\Debug\netcoreapp3.1\ContactSystem.csproj.CopyComplete
 D:\Projects\BlazorContactApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\CreateContact.razor.g.cs
 D:\Projects\BlazorContactApp\obj\Debug\netcoreapp3.1\Razor\Pages\CreateContact.razor.g.cs
+C:\Users\Anon\BlazorApp\ContactSystem\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\CreateContact.razor.g.cs

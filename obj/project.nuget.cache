@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "amOljf8BWh+A8DBOM5faebgipVLEnwhKXQdwtjdH5h/IvRyAluZ93LAGykFiuA7yQDO3p3VBGA8iKk5rGxFWqA==",
+  "dgSpecHash": "d0wg5u0/YV4hRjFQWYVQJqzhilaws66jaG3p1juM8q4hZe8eEwHwvw8n6PVzUlyJAdjyGsV9omzOcPnePxQr1A==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\BlazorContactApp\\ContactSystem.csproj",
+  "projectFilePath": "C:\\Users\\Anon\\BlazorApp\\ContactSystem\\ContactSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
