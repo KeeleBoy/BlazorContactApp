@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Anon\BlazorApp\ContactSystem\Pages\Contact.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "6b033052e9bbe471b39200fefffa1077648367ec"
+=======
+#pragma checksum "D:\Projects\BlazorContactApp\Pages\Contact.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "6b033052e9bbe471b39200fefffa1077648367ec"
+>>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
 =======
 #pragma checksum "D:\Projects\BlazorContactApp\Pages\Contact.razor" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "6b033052e9bbe471b39200fefffa1077648367ec"
 >>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
@@ -90,7 +94,11 @@ using ContactSystem.Shared;
         #pragma warning restore 1998
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 16 "C:\Users\Anon\BlazorApp\ContactSystem\Pages\Contact.razor"
+=======
+#line 16 "D:\Projects\BlazorContactApp\Pages\Contact.razor"
+>>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
 =======
 #line 16 "D:\Projects\BlazorContactApp\Pages\Contact.razor"
 >>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
@@ -105,7 +113,11 @@ using ContactSystem.Shared;
 #nullable disable
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 21 "C:\Users\Anon\BlazorApp\ContactSystem\Pages\Contact.razor"
+=======
+#line 21 "D:\Projects\BlazorContactApp\Pages\Contact.razor"
+>>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
 =======
 #line 21 "D:\Projects\BlazorContactApp\Pages\Contact.razor"
 >>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1

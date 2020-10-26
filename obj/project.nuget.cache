@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "d0wg5u0/YV4hRjFQWYVQJqzhilaws66jaG3p1juM8q4hZe8eEwHwvw8n6PVzUlyJAdjyGsV9omzOcPnePxQr1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anon\\BlazorApp\\ContactSystem\\ContactSystem.csproj",
@@ -8,6 +9,10 @@
 =======
   "dgSpecHash": "rovix46gcaxFKJadRH38SFxVFtKtpsy9SKcfSjyNxiFYseqHtk8piLcoAyBhAMIyzi5py5nKsbWaH5Ruc4au1w==",
   "success": true,
+=======
+  "dgSpecHash": "rovix46gcaxFKJadRH38SFxVFtKtpsy9SKcfSjyNxiFYseqHtk8piLcoAyBhAMIyzi5py5nKsbWaH5Ruc4au1w==",
+  "success": true,
+>>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
   "projectFilePath": "D:\\Projects\\BlazorContactApp\\ContactSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swarc\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
@@ -303,6 +308,9 @@
     "C:\\Users\\swarc\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\swarc\\.nuget\\packages\\windowsazure.storage\\8.1.4\\windowsazure.storage.8.1.4.nupkg.sha512"
   ],
+<<<<<<< HEAD
+>>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
+=======
 >>>>>>> a73b6d8cbc4c77c160041d2f278d3968848614f1
   "logs": []
 }
